@@ -4,6 +4,7 @@ const stringUtil = require('hhp-util/string')
 
 /* eslint-disable camelcase */
 const holdem_ps = require('./lib/holdem/pokerstars')
+const omaha_ps = require('./lib/omaha/pokerstars')
 const holdem_ig = require('./lib/holdem/ignition')
 const holdem_pp = require('./lib/holdem/partypoker')
 const holdem_pc = require('./lib/holdem/pacific')
@@ -41,6 +42,7 @@ function nonEmptyLines(input) {
 function parseHand(input, opts) {
   const lines = nonEmptyLines(input)
   if (holdem_ps.canParse(lines)) return holdem_ps.parse(lines, opts)
+  if (omaha_ps.canParse(lines)) return omaha_ps.parse(lines, opts)
   if (holdem_ig.canParse(lines)) return holdem_ig.parse(lines, opts)
   if (holdem_pp.canParse(lines)) return holdem_pp.parse(lines, opts)
   if (holdem_pc.canParse(lines)) return holdem_pc.parse(lines, opts)
@@ -58,6 +60,7 @@ function canParse(input) {
   if (lines == null || lines.length === 0) return false
   return (
        holdem_ps.canParse(lines)
+    || omaha_ps.canParse(lines)
     || holdem_ig.canParse(lines)
     || holdem_pp.canParse(lines)
     || holdem_pc.canParse(lines)
