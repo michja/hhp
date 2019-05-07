@@ -1,3 +1,5 @@
+# This is a modified library that I use for pokerstars omaha. Please assume that all other functionality is broken and use the original library.
+
 # hhp [![build status](https://secure.travis-ci.org/thlorenz/hhp.svg)](http://travis-ci.org/thlorenz/hhp)
 
 <a href="https://www.patreon.com/bePatron?u=8663953"><img alt="become a patron" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="35px"></a>

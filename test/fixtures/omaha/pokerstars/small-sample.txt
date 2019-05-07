@@ -1,0 +1,131 @@
+PokerStars Zoom Hand #199244758194:  Omaha Pot Limit ($0.01/$0.02) - 2019/04/13 16:15:01 WET [2019/04/13 11:15:01 ET]
+Table 'Lovejoy' 6-max Seat #1 is the button
+Seat 1: TeddyTheFace ($8.52 in chips) 
+Seat 2: Toxa_illyich ($3.28 in chips) 
+Seat 3: spinalnik_1 ($0.34 in chips) 
+Seat 4: Kon Khan ($2 in chips) 
+Seat 5: Yar1986 ($2 in chips) 
+Seat 6: chrizxz ($6.20 in chips) 
+Toxa_illyich: posts small blind $0.01
+spinalnik_1: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to TeddyTheFace [Ts Qd Jh 9s]
+Kon Khan: folds 
+Yar1986: folds 
+chrizxz: raises $0.03 to $0.05
+TeddyTheFace: calls $0.05
+Toxa_illyich: folds 
+spinalnik_1: raises $0.16 to $0.21
+chrizxz: raises $0.48 to $0.69
+TeddyTheFace: calls $0.64
+spinalnik_1: calls $0.13 and is all-in
+*** FLOP *** [Td Kh 3s]
+chrizxz: bets $0.55
+TeddyTheFace: calls $0.55
+*** TURN *** [Td Kh 3s] [8c]
+chrizxz: checks 
+TeddyTheFace: bets $1.37
+chrizxz: calls $1.37
+*** RIVER *** [Td Kh 3s 8c] [Jc]
+chrizxz: checks 
+TeddyTheFace: bets $5.39
+chrizxz: folds 
+Uncalled bet ($5.39) returned to TeddyTheFace
+*** SHOW DOWN ***
+TeddyTheFace: shows [Ts Qd Jh 9s] (a straight, Nine to King)
+TeddyTheFace collected $4.39 from side pot
+spinalnik_1: shows [6s 5s 6c Qs] (a pair of Sixes)
+TeddyTheFace collected $1 from main pot
+*** SUMMARY ***
+Total pot $5.57 Main pot $1. Side pot $4.39. | Rake $0.18 
+Board [Td Kh 3s 8c Jc]
+Seat 1: TeddyTheFace (button) showed [Ts Qd Jh 9s] and won ($5.39) with a straight, Nine to King
+Seat 2: Toxa_illyich (small blind) folded before Flop
+Seat 3: spinalnik_1 (big blind) showed [6s 5s 6c Qs] and lost with a pair of Sixes
+Seat 4: Kon Khan folded before Flop (didn't bet)
+Seat 5: Yar1986 folded before Flop (didn't bet)
+Seat 6: chrizxz folded on the River
+
+PokerStars Zoom Hand #199244727892:  Omaha Pot Limit ($0.01/$0.02) - 2019/04/13 16:14:12 WET [2019/04/13 11:14:12 ET]
+Table 'Lovejoy' 6-max Seat #1 is the button
+Seat 1: TeddyTheFace ($5.97 in chips) 
+Seat 2: saibr ($2.46 in chips) 
+Seat 3: Mattiasgirl ($2.13 in chips) 
+Seat 4: sanek ksenon ($0.57 in chips) 
+Seat 5: Tubarãot ($1.91 in chips) 
+Seat 6: Kon Khan ($2 in chips) 
+saibr: posts small blind $0.01
+Mattiasgirl: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to TeddyTheFace [8d 5s 4d 6s]
+sanek ksenon: calls $0.02
+Tubarãot: folds 
+Kon Khan: folds 
+TeddyTheFace: raises $0.04 to $0.06
+saibr: folds 
+Mattiasgirl: folds 
+sanek ksenon: calls $0.04
+*** FLOP *** [8h Ah Ac]
+sanek ksenon: checks 
+TeddyTheFace: bets $0.05
+sanek ksenon: calls $0.05
+*** TURN *** [8h Ah Ac] [Kc]
+sanek ksenon: checks 
+TeddyTheFace: checks 
+*** RIVER *** [8h Ah Ac Kc] [4s]
+sanek ksenon: checks 
+TeddyTheFace: checks 
+*** SHOW DOWN ***
+sanek ksenon: shows [7h Qh 9s Ts] (a pair of Aces)
+TeddyTheFace: shows [8d 5s 4d 6s] (two pair, Aces and Eights)
+TeddyTheFace collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8h Ah Ac Kc 4s]
+Seat 1: TeddyTheFace (button) showed [8d 5s 4d 6s] and won ($0.24) with two pair, Aces and Eights
+Seat 2: saibr (small blind) folded before Flop
+Seat 3: Mattiasgirl (big blind) folded before Flop
+Seat 4: sanek ksenon showed [7h Qh 9s Ts] and lost with a pair of Aces
+Seat 5: Tubarãot folded before Flop (didn't bet)
+Seat 6: Kon Khan folded before Flop (didn't bet)
+
+PokerStars Zoom Hand #199244729804:  Omaha Pot Limit ($0.01/$0.02) - 2019/04/13 16:14:15 WET [2019/04/13 11:14:15 ET]
+Table 'Lovejoy' 6-max Seat #1 is the button
+Seat 1: Tinippa ($2 in chips) 
+Seat 2: uoou ($1.05 in chips) 
+Seat 3: KeeNchiK ($2.72 in chips) 
+Seat 4: TeddyTheFace ($8.59 in chips) 
+Seat 5: The Starsing ($1.97 in chips) 
+Seat 6: xaandraa1991 ($10.15 in chips) 
+uoou: posts small blind $0.01
+KeeNchiK: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to TeddyTheFace [6d 8h Ad Js]
+TeddyTheFace: folds 
+The Starsing: folds 
+xaandraa1991: raises $0.05 to $0.07
+Tinippa: folds 
+uoou: calls $0.06
+KeeNchiK: folds 
+*** FLOP *** [7s 3h 2c]
+uoou: checks 
+xaandraa1991: checks 
+*** TURN *** [7s 3h 2c] [3s]
+uoou: checks 
+xaandraa1991: checks 
+*** RIVER *** [7s 3h 2c 3s] [9s]
+uoou: checks 
+xaandraa1991: checks 
+*** SHOW DOWN ***
+uoou: shows [Kc 9c Kh 6s] (two pair, Kings and Threes)
+xaandraa1991: shows [Tc Ts Ac Qd] (two pair, Tens and Threes)
+uoou collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [7s 3h 2c 3s 9s]
+Seat 1: Tinippa (button) folded before Flop (didn't bet)
+Seat 2: uoou (small blind) showed [Kc 9c Kh 6s] and won ($0.15) with two pair, Kings and Threes
+Seat 3: KeeNchiK (big blind) folded before Flop
+Seat 4: TeddyTheFace folded before Flop (didn't bet)
+Seat 5: The Starsing folded before Flop (didn't bet)
+Seat 6: xaandraa1991 showed [Tc Ts Ac Qd] and lost with two pair, Tens and Threes

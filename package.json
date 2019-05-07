@@ -10,6 +10,7 @@
   "scripts": {
     "test": "tape test/{**/*,**/**/*}.js",
     "test-ps": "tape test/pokerstars/*.js",
+    "test-omaha": "tape test/pokerstars/omaha*.js",
     "test-ig": "tape test/ignition/*.js",
     "test-pp": "tape test/partypoker/**/*.js",
     "test-pc": "tape test/pacific/**/*.js"
