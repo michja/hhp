@@ -206,7 +206,9 @@ test('\nHoldem.PokerStars: Zoom Cash from 2017', function(t) {
       , card3: '6d'
       , card4: '2h'
       , card5: '5d'
-      , metadata: { lineno: 35, raw: 'Board [6c Jd 6d 2h 5d]' } } })
+      , metadata: { lineno: 35, raw: 'Board [6c Jd 6d 2h 5d]' } } 
+    , runTwice: false  
+    })
 
   t.end()
 })
@@ -422,7 +424,9 @@ test('\nHoldem.PokerStars: Cash from 2010', function(t) {
       , card3: '9s'
       , card4: 'Qc'
       , card5: '2d'
-      , metadata: { lineno: 35, raw: 'Board [4d 9h 9s Qc 2d]' } } })
+      , metadata: { lineno: 35, raw: 'Board [4d 9h 9s Qc 2d]' } } 
+    , runTwice: false  
+  })
 
   t.end()
 })
@@ -690,6 +694,8 @@ test('\nHoldem.PokerStars: playernames have parentheses', function(t) {
       , card3: '4d'
       , card4: 'Qc'
       , card5: 'Jc'
-      , metadata: { lineno: 34, raw: 'Board [9d Qh 4d Qc Jc]' } } })
+      , metadata: { lineno: 34, raw: 'Board [9d Qh 4d Qc Jc]' } } 
+    , runTwice: false  
+  })
   t.end()
 })
