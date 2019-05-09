@@ -46,7 +46,7 @@ Seat 4: Kon Khan folded before Flop (didn't bet)
 Seat 5: Yar1986 folded before Flop (didn't bet)
 Seat 6: chrizxz folded on the River
 
-PokerStars Zoom Hand #199244727892:  Omaha Pot Limit ($0.01/$0.02) - 2019/04/13 16:14:12 WET [2019/04/13 11:14:12 ET]
+PokerStars Hand #199244727892:  Omaha Pot Limit ($0.01/$0.02) - 2019/04/13 16:14:12 WET [2019/04/13 11:14:12 ET]
 Table 'Lovejoy' 6-max Seat #1 is the button
 Seat 1: TeddyTheFace ($5.97 in chips) 
 Seat 2: saibr ($2.46 in chips) 
